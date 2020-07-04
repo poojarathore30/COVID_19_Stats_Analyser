@@ -1,0 +1,53 @@
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    font-family: 'Chelsea Market', cursive;
+    background-color: rgba(0, 0, 0,0.9);
+    color: white;
+}
+.covid-info-content {
+    margin: 0.5rem;
+    padding: 4rem;
+   }
+   .covid-spread{
+    padding: 1rem 8rem;
+   }
+   .cp{
+       background-color: rgb(70, 70, 71);
+      margin: 0;
+      box-sizing: border-box;
+        padding: 0;
+       border-radius: 2%;
+       width: 30%;
+   }
+   .info{
+       background-color: rgb(105, 207, 105);
+       color: black;
+       text-align: center;
+       border-radius: 10%;
+   }
+  .list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+  }
+  
+  .list li {
+    float: left;
+  }
+  
+  .list li {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+   
+
