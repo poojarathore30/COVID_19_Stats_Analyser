@@ -1,8 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This Project Helps Us give the Live statistics of Number of Infected , Recovered and Death cases  from COVID-19.
+## KIndly refer to this link to check live updates :: https://5f01faa872ef4b12dbf9e0d5--hungry-hoover-617825.netlify.app/
+![](https://github.com/poojarathore30/COVID-19-Statistic-Analyser.github.io/blob/master/public/images/1.PNG)
+![](https://github.com/poojarathore30/COVID-19-Statistic-Analyser.github.io/blob/master/public/images/2.PNG)
+![](https://github.com/poojarathore30/COVID-19-Statistic-Analyser.github.io/blob/master/public/images/3.PNG)
+![](https://github.com/poojarathore30/COVID-19-Statistic-Analyser.github.io/blob/master/public/images/4.PNG)
 
 ## Available Scripts
-
-In the project directory, you can run:
+Clone this Repository and In the project directory, you can run:
 
 ### `npm start`
 
