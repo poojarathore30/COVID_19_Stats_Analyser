@@ -7,7 +7,7 @@
 ![](https://github.com/poojarathore30/COVID-19-Statistic-Analyser.github.io/blob/master/public/images/4.PNG)
 
 ## Available Scripts
-Clone this Repository and In the project directory, you can run:
+Clone this Repository and In the project directory, then run:
 
 ### `npm start`
 
